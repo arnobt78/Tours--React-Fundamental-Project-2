@@ -1,4 +1,6 @@
-## Tours Project- React Fundamental Project 2
+<img width="1153" alt="Screenshot 2025-02-09 at 01 48 04" src="https://github.com/user-attachments/assets/6a741f3f-b8c8-45f1-9a38-97f30cb9b8f9" /><img width="1139" alt="Screenshot 2025-02-09 at 01 48 41" src="https://github.com/user-attachments/assets/db897677-0e6f-456d-b90f-eaf8c2fbba07" />
+
+## Tours Project - React Fundamental Project 2
 
 This project is a React application that fetches and displays a list of tours from an external API. Users can view tour details, remove tours from the list, and re-fetch the tours.
 
